@@ -9,7 +9,159 @@
       "rate": 3,
       "discount": 50,
       "image": "/image/home/perfume.png"
-      
-    }
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/headphone.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/pot.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/clock.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/camera.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/jug.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "image/home/shoes.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/hamburger.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/sofa.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/topis.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/carrot_jam.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/bicycle.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/mobile.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/chair.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/socks.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/watch.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/cream.png"
+    },
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      "rate": 3,
+      "discount": 50,
+      "image": "/image/home/t-shirt.png"
+    },
   ]
 }
