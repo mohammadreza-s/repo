@@ -1,1 +1,15 @@
 
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "ساعت هوشمند سامسونگ مدل",
+      "old_price": 350000,
+      "new_price": 250000,
+      rate: 3,
+      discount: 50,
+      image: "/image/home/perfume.png"
+      
+    }
+  ]
+}
