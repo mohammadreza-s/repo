@@ -15,7 +15,7 @@
       "title": "ساعت هوشمند سامسونگ مدل",
       "old_price": 350000,
       "new_price": 250000,
-      "rate": 3,
+      "rate": 4,
       "discount": 50,
       "image": "/image/home/headphone.png"
     },
@@ -24,7 +24,7 @@
       "title": "ساعت هوشمند سامسونگ مدل",
       "old_price": 350000,
       "new_price": 250000,
-      "rate": 3,
+      "rate": 2,
       "discount": 50,
       "image": "/image/home/pot.png"
     },
@@ -33,7 +33,7 @@
       "title": "ساعت هوشمند سامسونگ مدل",
       "old_price": 350000,
       "new_price": 250000,
-      "rate": 3,
+      "rate": 5,
       "discount": 50,
       "image": "/image/home/clock.png"
     },
@@ -51,7 +51,7 @@
       "title": "ساعت هوشمند سامسونگ مدل",
       "old_price": 350000,
       "new_price": 250000,
-      "rate": 3,
+      "rate": 4,
       "discount": 50,
       "image": "/image/home/jug.png"
     },
@@ -60,7 +60,7 @@
       "title": "ساعت هوشمند سامسونگ مدل",
       "old_price": 350000,
       "new_price": 250000,
-      "rate": 3,
+      "rate": 2,
       "discount": 50,
       "image": "image/home/shoes.png"
     },
@@ -141,7 +141,7 @@
       "title": "ساعت هوشمند سامسونگ مدل",
       "old_price": 350000,
       "new_price": 250000,
-      "rate": 3,
+      "rate": 4,
       "discount": 50,
       "image": "/image/home/watch.png"
     },
@@ -159,7 +159,7 @@
       "title": "ساعت هوشمند سامسونگ مدل",
       "old_price": 350000,
       "new_price": 250000,
-      "rate": 3,
+      "rate": 5,
       "discount": 50,
       "image": "/image/home/t-shirt.png"
     }
