@@ -16,7 +16,7 @@
       "old_price": 350000,
       "new_price": 250000,
       "rate": 4,
-      "discount": 50,
+      "discount": 30,
       "image": "/image/home/headphone.png"
     },
     {
@@ -25,7 +25,7 @@
       "old_price": 350000,
       "new_price": 250000,
       "rate": 2,
-      "discount": 50,
+      "discount": 60,
       "image": "/image/home/pot.png"
     },
     {
@@ -34,7 +34,7 @@
       "old_price": 350000,
       "new_price": 250000,
       "rate": 5,
-      "discount": 50,
+      "discount": 40,
       "image": "/image/home/clock.png"
     },
     {
@@ -43,7 +43,7 @@
       "old_price": 350000,
       "new_price": 250000,
       "rate": 3,
-      "discount": 50,
+      "discount": 20,
       "image": "/image/home/camera.png"
     },
     {
@@ -52,7 +52,7 @@
       "old_price": 350000,
       "new_price": 250000,
       "rate": 4,
-      "discount": 50,
+      "discount": 25,
       "image": "/image/home/jug.png"
     },
     {
@@ -79,7 +79,7 @@
       "old_price": 350000,
       "new_price": 250000,
       "rate": 3,
-      "discount": 50,
+      "discount": 65,
       "image": "/image/home/sofa.png"
     },
     {
@@ -97,7 +97,7 @@
       "old_price": 350000,
       "new_price": 250000,
       "rate": 3,
-      "discount": 50,
+      "discount": 70,
       "image": "/image/home/carrot_jam.png"
     },
     {
