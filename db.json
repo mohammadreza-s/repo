@@ -1,4 +1,3 @@
-
 {
   "products": [
     {
@@ -163,5 +162,11 @@
       "discount": 50,
       "image": "/image/home/t-shirt.png"
     }
-  ]
+  ],
+  "SearchCategory":[
+      {"id":1, "title":"دسته بندی 1"},
+      {"id":2, "title":"دسته بندی 2"},
+      {"id":3, "title":"دسته بندی 3"}
+  ],
+  "SearchQuery":"تست"
 }
